@@ -4,7 +4,7 @@ I built this website using vanilla HTML/CSS and I am very proud of how this turn
 getting into design and understanding how each colour works with each other as for this project I spent most of the time researching colour patterns and palettes. I understand that the current ones are still aren't that great but I think it was a good shot given the 
 the type of websites I used to make back then.
 
-here is an overview of the colours I used! :3
+here is an overview of the colours I used! :3<br>
 background: `#f4f1de`
 text: `#3d405b`
 hyperlinks: `#e07a5f`
